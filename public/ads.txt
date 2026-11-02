@@ -1,0 +1,7 @@
+# Replace this file's content with the exact line AdSense gives you after
+# your account is approved - it looks like:
+# google.com, pub-XXXXXXXXXXXXXXXX, DIRECT, f08c47fec0942fa0
+#
+# This file must be served from the site's root (e.g.
+# https://yourdomain.com/ads.txt) for AdSense to serve ads reliably.
+# See: https://support.google.com/adsense/answer/7532444
